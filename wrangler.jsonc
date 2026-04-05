@@ -19,6 +19,12 @@
 			"bucket_name": "sample-r2-emdash","preview_bucket_name": "sample-r2-emdash",
 		},
 	],
+	"kv_namespaces": [
+		{
+			"binding": "SESSION",
+			"id": "54c5a2388cbd4a38b67e48c28161c9c4"
+		},
+	],
 	"observability": {
 		"enabled": true,
 	},
