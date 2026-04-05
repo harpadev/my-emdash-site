@@ -10,7 +10,6 @@
 		{
 			"binding": "DB",
 			"database_name": "emdashsamp-db","database_id": "c6c5c31d-6584-496e-b941-48947b132634",
-			// Run `wrangler d1 create my-emdash-site` and paste the ID here
 		},
 	],
 	"r2_buckets": [
@@ -28,9 +27,4 @@
 	"observability": {
 		"enabled": true,
 	},
-	"worker_loaders": [
-		{
-			"binding": "LOADER",
-		},
-	],
 }
